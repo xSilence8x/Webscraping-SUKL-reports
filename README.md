@@ -21,7 +21,7 @@ pip install selenium
 4. Run the script:
 
 ```
-python scraper.py
+python main.py
 ```
 5. The script will prompt you to choose one of the available options for scraping data. Enter the corresponding option and press Enter.
 Options:
